@@ -17,19 +17,6 @@ analysing 96,152 fire detection hotspots across Australia during September 2019.
 - **Tableau Public** — Interactive dashboard visualisation
 - **NASA FIRMS** — VIIRS 375m satellite fire detection data
 
-## Repository Structure
-
-```
-australian-bushfire-analysis/
-│
-├── data/
-│   └── bushfire_clean.csv        # Cleaned dataset (96,152 rows)
-│
-├── sql/
-│   └── bushfire_queries.sql      # All 5 SQL queries with comments
-│
-└── README.md
-```
 
 ##  Data Source
 
