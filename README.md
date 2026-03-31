@@ -35,7 +35,7 @@ analysing 96,152 fire detection hotspots across Australia during September 2019.
 5. Removed unnecessary columns (scan, track, satellite, instrument, version)
 6. Final clean dataset: 96,152 rows
 
-## 🔍 SQL Analysis — Key Findings
+## SQL Analysis — Key Findings
 
 ### Finding 1 — Daily Hotspot Trend
 - Peak fire activity occurred on **6–9 September 2019** with 6,000–6,800 hotspots per day
