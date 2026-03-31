@@ -8,7 +8,7 @@ analysing 96,152 fire detection hotspots across Australia during September 2019.
 
 **View the interactive Tableau dashboard here:**
 (https://public.tableau.com/views/AustralianBushfireAnalysisSeptember2019/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-![Dashboard Preview](dashboard_preview.png)
+
 
 ## Tools Used
 
